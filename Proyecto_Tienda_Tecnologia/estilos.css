@@ -65,11 +65,11 @@ nav a[aria-current="page"] {
 }
 
 #inicio p {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   margin-bottom: 25px;
 }
 
-#inicio .btn,
+
 #inicio button {
   background: #00bfff;
   color: #fff;
